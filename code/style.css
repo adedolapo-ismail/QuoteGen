@@ -1,0 +1,40 @@
+header{
+    padding: 2em;
+    background-color: rgba(134, 99, 99, 0.664);
+    margin-top: 2em;
+    text-align: center;
+    color: #fff;
+}
+body {
+    border-radius: 20px;
+    width: 70%;
+    height: 70em;
+    margin: 50px auto;
+    background: repeating-linear-gradient(60deg, #d6aab7,#cc0f51);
+}
+.quote {
+    font-size: 2em;
+}
+
+.btn-large {
+    margin: 0.5em;
+}
+
+.card {
+    text-align: center;
+    width: 45em;
+}
+
+.new-quote-button {
+    background-color: rgb(41, 41, 231);
+    border-color: rgb(38, 112, 223);
+}
+
+#button:hover{
+    background-color: darkgrey;
+    transform: scale(0.8) ;
+}
+
+p{
+    background-color: rgba(196, 106, 106, 0.664);
+}
