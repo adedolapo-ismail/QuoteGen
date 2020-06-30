@@ -10,7 +10,10 @@ body {
     width: 70%;
     height: 70em;
     margin: 50px auto;
-    background: repeating-linear-gradient(60deg, #d6aab7,#cc0f51);
+    background-image: url('quote.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: cover;
 }
 .quote {
     font-size: 2em;
